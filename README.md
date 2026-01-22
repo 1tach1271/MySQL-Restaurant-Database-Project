@@ -42,4 +42,4 @@ Some of the insights generated in this project:
 1. Open MySQL
 2. Run the SQL file:
    ```sql
-   SOURCE restaurant_sql_project.sql;
+   SOURCE restaurant_ordering.sql;
